@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'InstrumentsDemo' target in the 'InstrumentsDemo' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
